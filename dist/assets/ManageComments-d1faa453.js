@@ -1,0 +1,1 @@
+import{r,C as e,j as o}from"./index-2cb4182c.js";import{T as a}from"./Testimony-d90bcacd.js";import"./Modal-cff141ad.js";import"./Dialog-76c065af.js";const p=()=>{const{comments:t}=r.useContext(e);return o.jsx("div",{className:"overflow-x-scroll min-h-[300px] no-scrollbar flex flex-wrap gap-x-4 pt-10",children:t.map(s=>o.jsx(a,{id:s.id,comment:s},s.id))})};export{p as default};
