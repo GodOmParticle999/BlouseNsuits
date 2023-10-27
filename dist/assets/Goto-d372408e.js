@@ -1,3 +1,0 @@
-import{j as o,N as e}from"./index-2cb4182c.js";const a=()=>{const r=()=>window.scrollTo({top:0,left:0,behavior:"smooth"});return o.jsx("div",{className:"grid place-items-center mx-auto py-10 border-4 border-orange-500 border-dashed bg-gray-50 dark:bg-gray-950 max-w-5xl   ",children:o.jsx(e,{to:"/cloths",onClick:r,className:`px-16 md:scale-x-150 md:scale-y-125 bg-gradient-to-r from-pink-800 to\r
-         bg-pink-500 hover:bg-gradient-to-br hover:from-pink-500 to hover:bg-pink-800  text-[5vw] sm:text-xl rubikfont rounded border-4 border-dotted\r
-          py-2 text-gray-100 shadow-lg shadow-pink-700 `,children:"Go To Collection"})})};export{a as default};
